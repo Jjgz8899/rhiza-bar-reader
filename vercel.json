@@ -1,10 +1,6 @@
 {
-  "buildCommand": "",
-  "outputDirectory": "",
-  "framework": null,
   "functions": {
     "api/analyze.py": {
-      "runtime": "python3.12",
       "memory": 1024,
       "maxDuration": 30
     }
